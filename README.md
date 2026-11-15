@@ -28,3 +28,13 @@ Created as part of the Web Integration and Application assignment.
 - Better awareness of college activities.
 - Information about upcoming competitions.
 - Improved student participation.
+
+## Event Planning Details
+The project can organise event information in a clear and student-friendly format.
+
+| Detail | Example |
+|---|---|
+| Event name | Annual Cultural Fest |
+| Date | 15 February |
+| Venue | College Auditorium |
+| Coordinator | Student Event Committee |
