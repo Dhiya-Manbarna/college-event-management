@@ -23,3 +23,8 @@ College Event Management is a simple project created to provide information abou
 
 ## Author
 Created as part of the Web Integration and Application assignment.
+## Benefits for Students
+- Easy access to event information.
+- Better awareness of college activities.
+- Information about upcoming competitions.
+- Improved student participation.
