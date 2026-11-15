@@ -1,7 +1,5 @@
 # college-event-management
 A project about managing college events
-# College Event Management
-
 ## About the Project
 College Event Management is a simple project created to provide information about different events organised in a college.
 
