@@ -38,3 +38,8 @@ The project can organise event information in a clear and student-friendly forma
 | Date | 15 February |
 | Venue | College Auditorium |
 | Coordinator | Student Event Committee |
+
+## Future Improvements
+- Add an event registration form.
+- Display event schedules and announcements.
+- Provide contact details for event coordinators.
